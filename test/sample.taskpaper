@@ -1,0 +1,29 @@
+Top level note. A group uses a colon, and a todo uses a dash. That's all! The indentation is the grouping mecanism.
+
+- This is a top level todo.
+- This is another top level todo.
+	With a note!
+
+Group number one:
+	This note will be discarded
+		- And this todo too.
+	- This is a todo
+		With a note and a checklist. Yay!
+		- With a checklist item
+		- And another checklist item
+	- Another todo
+		With a note!
+	- Simple todo
+	- Simple todo
+
+	- A todo can be separated by newlines, this is not a problem.
+
+- Another top level todo.
+
+Group number two:
+	- Todo 1.
+	- Todo 2.
+	- Todo 3.
+	- Todo 4.
+
+Another top level note.
